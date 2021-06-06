@@ -1,0 +1,50 @@
+body {
+    color: dimgrey;
+    font-family: Helvetica, Arial, sans-serif;
+    background-image: url(./images/photo-1542831371-29b0f74f9713.jpg);
+    background-repeat:round;
+}
+
+header {
+    padding: auto;
+    background-color: midnightblue;
+    display:flex;
+ }
+
+header h1 {
+    font-weight: bold;
+    font-size: 30px;
+    color: dimgrey;
+    display: inline;
+    
+}
+
+header nav {
+    margin: 6px 0;
+    display: flex;
+    padding: auto;
+    
+}
+
+header nav ul li {
+    margin: 0 20px;
+    text-decoration: none;
+    font-size: 20px;
+    color: dimgrey;
+    display: inline-flex;
+}
+
+.Bio {
+    padding: 60px;
+    display: flexbox;
+    background-color: dimgrey;
+    margin: 60px 30px;
+    color: midnightblue;
+}
+
+ .Bio div {
+     font-size: 60px;
+     font-weight: bolder;
+     font-style: italic;
+     text-align: center;
+}
