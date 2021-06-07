@@ -1,2 +1,3 @@
-#My Portfolio
-##This is my portfolio detailing my abilities as a software developer.
+# My Software Development Portfolio
+## As I continue learning this site will be updated so stay tuned!
+### Created with HTML and CSS
